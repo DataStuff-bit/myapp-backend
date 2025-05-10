@@ -1,0 +1,14 @@
+streamlit
+pandas
+openpyxl
+requests
+numpy
+google-generativeai
+scikit-learn
+mysql-connector-python
+PyPDF2
+python-dotenv
+validators
+langchain
+langchain-groq
+langchain-community
