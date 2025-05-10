@@ -12,3 +12,8 @@ validators
 langchain
 langchain-groq
 langchain-community
+Flask
+flask-jwt-extended
+flask-cors
+werkzeug
+python-dotenv
